@@ -310,3 +310,17 @@ img{
 	justify-content: space-between;
 	padding: 50px 0;
 }
+.footer-content {
+	background: #FFF4E7;
+	text-align: center;
+	padding: 30px 0;
+}
+.footer-content p {
+	color: rgb(66, 66, 66);
+	font-size: 20px;
+	font-weight: 400;
+	font-family: work sans;
+}
+.footer-area {
+	padding: 20px 0;
+}
