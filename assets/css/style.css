@@ -284,3 +284,29 @@ img{
 	font-family: work sans;
 	padding-top: 10px;
 }
+.sponspors-area {
+	padding: 60px 0;
+}
+.sponsors-title {
+	text-align: center;
+}
+.sponsors-title h2 {
+	color: rgba(19, 19, 19, 1);
+	font-size: 45px;
+	font-weight: bold;
+	font-family: work sans;
+	padding-bottom: 20px;
+}
+.sponsors-title p {
+	color: rgba(114, 114, 114, 1);
+	font-size: 16px;
+	font-weight: 400;
+	font-family: work sans;
+	max-width: 542px;
+	margin: auto;
+}
+.sponspors-image {
+	display: flex;
+	justify-content: space-between;
+	padding: 50px 0;
+}
