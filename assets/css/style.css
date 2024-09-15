@@ -216,6 +216,8 @@ img{
 	font-family: work sans;
 	max-width: 400px;
 	padding-bottom: 20px;
+	border-left: 5px solid #FF900E;
+	padding-left: 20px;
 }
 .features-content p {
 	color: rgba(114, 114, 114, 1);
@@ -310,6 +312,9 @@ img{
 	justify-content: space-between;
 	padding: 50px 0;
 }
+.footer-area {
+	padding: 20px 0;
+}
 .footer-content {
 	background: #FFF4E7;
 	text-align: center;
@@ -320,7 +325,4 @@ img{
 	font-size: 20px;
 	font-weight: 400;
 	font-family: work sans;
-}
-.footer-area {
-	padding: 20px 0;
 }
