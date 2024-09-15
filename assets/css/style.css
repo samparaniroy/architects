@@ -244,3 +244,43 @@ img{
 	font-family: work sans;
 	max-width: 514px;
 }
+.facts-area {
+	padding: 40px 0;
+}
+.facts-title {
+	padding-bottom: 60px;
+}
+.facts-title h3 {
+	color: rgba(19, 19, 19, 1);
+	font-size: 45px;
+	font-weight: bold;
+	font-family: work sans;
+	padding-bottom: 20px;
+}
+.facts-title p {
+	color: rgba(114, 114, 114, 1);
+	font-size: 16px;
+	font-weight: 400;
+	font-family: work sans;
+	max-width: 542px;
+}
+.facts-content {
+	border: 1px solid #FF900E;
+	text-align: center;
+	padding: 40px 0;
+	border-radius: 10px;
+}
+.facts-content h3 {
+	color: rgba(66, 66, 66, 1);
+	font-size: 45px;
+	font-weight: 600;
+	font-family: work sans;
+	padding-top: 10px;
+}
+.facts-content p {
+	color: rgba(114, 114, 114, 1);
+	font-size: 20px;
+	font-weight: 600;
+	font-family: work sans;
+	padding-top: 10px;
+}
